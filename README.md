@@ -1,4 +1,4 @@
-# Arc Community Banner
+# Community Banner
 
 A browser app that turns one illustrated scene into a personalised **1500×500**
 X/Twitter banner. Pick a figure, upload your photo, choose your chapter, export.

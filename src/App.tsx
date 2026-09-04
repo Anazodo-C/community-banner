@@ -217,7 +217,7 @@ export default function App() {
     <div className="app">
       <header className="topbar">
         <div>
-          <h1>Arc Community Banner</h1>
+          <h1>Community Banner</h1>
           <p>Put yourself in the scene. A 1500×500 profile banner, built for the Arc community.</p>
         </div>
         <label className="check check-inline">
